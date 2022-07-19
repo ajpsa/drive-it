@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812236416384",
+    "project_id": "ajce-psa-001",
+    "storage_bucket": "ajce-psa-001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812236416384:android:17b4bc53328a86c6cdcd65",
+        "android_client_info": {
+          "package_name": "com.example.p1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812236416384-mp5prolnte2o474d0g36dgmlcng2vm41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CHeKib1a7L16smTbjO2hdVeqyxd2cEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812236416384-mp5prolnte2o474d0g36dgmlcng2vm41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
