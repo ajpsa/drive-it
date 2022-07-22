@@ -19,14 +19,6 @@ class UserViewCar extends StatefulWidget {
 
 class _UserViewCarState extends State<UserViewCar> {
 
-  // @override
-  // void initState() {
-  //   SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: [
-  //     SystemUiOverlay.top
-  //   ]);
-  //   super.initState();
-  // }
-
 
   List searchResult = [];
   void searchFromFirebase(String query) async {
